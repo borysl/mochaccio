@@ -4,7 +4,8 @@
   "description": "Use mocha to automate stuff",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha"
+    "test": "./node_modules/.bin/mocha",
+    "test:debug": "./node_modules/.bin/mocha --inspect --debug-brk"
   },
   "repository": {
     "type": "git",
