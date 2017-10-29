@@ -1,0 +1,25 @@
+{
+  "name": "mochaccio",
+  "version": "1.0.0",
+  "description": "Use mocha to automate stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borysl/mochaccio.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Borys Lebeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borysl/mochaccio/issues"
+  },
+  "homepage": "https://github.com/borysl/mochaccio#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
