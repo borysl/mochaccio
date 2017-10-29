@@ -22,5 +22,9 @@
   "homepage": "https://github.com/borysl/mochaccio#readme",
   "devDependencies": {
     "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "chromedriver": "^2.33.2",
+    "selenium-webdriver": "^3.6.0"
   }
 }
